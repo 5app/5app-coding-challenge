@@ -20,3 +20,7 @@ Please see [/samples](/samples) for example request and response
 # Submit
 
 To submit your service please enter the details in https://fiveapp-coding-challenge.herokuapp.com
+
+# Do not share
+
+Please make the challenge fair and do not publish your code in a public repository
